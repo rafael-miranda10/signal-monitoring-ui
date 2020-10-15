@@ -1,6 +1,7 @@
 # SignalMonitoringUi
 
-# Front para o repositório https://github.com/rafael-miranda10/asp.netcore-signalR
+# Front para o repositório 
+https://github.com/rafael-miranda10/asp.netcore-signalR
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
